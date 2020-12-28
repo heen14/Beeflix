@@ -1,0 +1,64 @@
+.kotakBackground
+{
+    background-color: #f4efef;
+    height: 1900px;
+    width: 1440px;
+
+  
+}
+.kotakBackground2
+{
+    background-color: #f4efef;
+    height: 1000px;
+    width: 1440px;
+
+  
+}
+.spasi{
+    margin-top: 5vh;
+    margin-right: 10vh;
+    
+
+}
+.centertulisan{
+    text-align: center;
+}
+a {
+    text-decoration:none;
+    color: white;
+    margin-left: 20px;
+    margin-right: 3px;
+}
+
+.kotakSection
+{
+    background-color: #7C263D;
+    height: 70px;
+    width: 1440px;
+    margin-top: 5vh;
+    text-align: center;
+  
+}
+a:link {
+    text-decoration:none;
+    color: white;
+  }
+  
+  
+  a:visited {
+    text-decoration:none;
+    color: white;
+  }
+  
+ 
+  a:hover {
+    text-decoration:none;
+    color: white;
+  }
+  
+  
+  a:active {
+    text-decoration:none;
+    color: white;
+  }
+  
